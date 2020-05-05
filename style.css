@@ -9,6 +9,11 @@
     display: inline-block;
     text-align: center;
 }
+h2{
+  text-align: center;
+  font-size: 3rem;
+  font-family: 'Racing Sans One', cursive;
+}
 h3{
   text-align: center;
   font-size: 3rem;
